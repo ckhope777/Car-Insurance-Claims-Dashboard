@@ -33,3 +33,6 @@ Project explores the Car Insurance Claims dataset to derive actionable insights 
  - Excel / CSV – for raw dataset storage and preprocessing.
  - Visualization Techniques – bar charts, line charts, maps, KPIs, and dashboards.
  - Tableau Public – for publishing and sharing the interactive storyboard.
+
+# TABLEAU Dashboard #
+https://public.tableau.com/app/profile/chetan.khope/viz/Project_17298462184980/Story 
