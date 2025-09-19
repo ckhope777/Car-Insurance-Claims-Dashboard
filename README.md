@@ -31,6 +31,5 @@ Project explores the Car Insurance Claims dataset to derive actionable insights 
 ## Tech Stack ##
  - Tableau – for interactive dashboards and storyboards.
  - Excel / CSV – for raw dataset storage and preprocessing.
- - Data Cleaning & Preparation – handling missing values, formatting variables.
  - Visualization Techniques – bar charts, line charts, maps, KPIs, and dashboards.
  - Tableau Public – for publishing and sharing the interactive storyboard.
